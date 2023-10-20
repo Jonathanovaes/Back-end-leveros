@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "numero": 100001,
+      "valor": 120.00,
+      "status": "APROVADO"
+    },
+    {
+      "id": 2,
+      "numero": 100002,
+      "valor": 150.50,
+      "status": "PENDENTE"
+    },
+    {
+      "id": 3,
+      "numero": 100003,
+      "valor": 75.25,
+      "status": "PROCESSANDO"
+    },
+    {
+      "id": 4,
+      "numero": 100004,
+      "valor": 95.75,
+      "status": "CANCELADO"
+    },
+    {
+      "id": 5,
+      "numero": 100005,
+      "valor": 200.00,
+      "status": "PENDENTE"
+    }
+    
+  ]
